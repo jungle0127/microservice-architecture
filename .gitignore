@@ -1,3 +1,13 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+target/
+classes
+src/main/webapp/node_modules
+!.mvn/wrapper/maven-wrapper.jar
+
 # Compiled class file
 *.class
 

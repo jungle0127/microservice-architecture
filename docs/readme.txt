@@ -18,4 +18,5 @@ Eureka
 FeignClient
 Sleuth
 Consul
+springcloudstream
 
